@@ -1,0 +1,21 @@
+{
+  "name": "dorajs-novelcheck",
+  "displayName": "novelcheck",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "wenmoux"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "^0.0.1-security"
+  }
+}
