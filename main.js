@@ -8,19 +8,20 @@ async function qidian(id) {
     let res = await axios.get(url)
     let $ = load(res.data)
     a = $(".update>.detail>p>a")
-    b = $(".update>.detail>p>.time").text()
+    b = encodeURI($(".update>.detail>p>.time").text())
     u = a.attr("href")
-    t = a.attr("title")
+    t = encodeURI(a.attr("title"))
     cid = u.match(/\d+/g)[1]
     if (config.cid == cid) {
         console.log("暂无更新")
     } else {
         console.log("有更新啦")
-        let content = `某某追更的小说更新啦 ● ${b}
+        let content = `${encodeURI(某某追更的小说更新啦)} ● ${b}
 ${t}
 http:${u}`
         let res = await axios.post(mapi, content)
-        fs.writeFile("./config.js", `config={
+     console.log(res.data)   
+fs.writeFile("./config.js", `config={
   id:${id},
   cid:${cid}
 }
