@@ -16,7 +16,7 @@ async function qidian(id) {
         console.log("暂无更新")
     } else {
         console.log("有更新啦")
-        let content = `${encodeURI("某某追更的小说更新啦")} ⊙ ${b}
+        let content = `c=${encodeURI("某某追更的小说更新啦")} ⊙ ${b}
 ${t}
 http:${u}`
         let res = await axios.post(mapi, content)
