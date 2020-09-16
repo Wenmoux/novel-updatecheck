@@ -23,7 +23,8 @@ http:${u}`
      console.log(res.data)   
 fs.writeFile("./config.js", `config={
   id:${id},
-  cid:${cid}
+  cid:${cid},
+  chaptername:${a.attr("title")}
 }
 module.exports=config`, {
                 flag: "w",
@@ -38,6 +39,5 @@ module.exports=config`, {
         );
     }
 }
-
 
 qidian(config.id)
