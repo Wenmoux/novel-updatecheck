@@ -56,6 +56,6 @@ jobs:
 
                 git add . 
 
-                git commit -m '小说更新检查'  
+                git commit -m '有更新啦'  
 
                 git push -u origin master
