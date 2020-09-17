@@ -24,7 +24,7 @@ http:${u}`
 fs.writeFile("./config.js", `config={
   id:${id},
   cid:${cid},
-  chaptername:${a.attr("title")}
+  chaptername:"${a.attr("title")}"
 }
 module.exports=config`, {
                 flag: "w",
