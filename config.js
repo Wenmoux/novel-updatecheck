@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:571877384,
-  chaptername:第604章 广邀四方（求订阅）
+  cid:571964170,
+  chaptername:"第606章 苏宇的演技（万更求订阅）"
 }
 module.exports=config
