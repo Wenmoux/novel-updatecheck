@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:572055454,
-  chaptername:"第607章 家家有本难念的经（求订阅）"
+  cid:572100735,
+  chaptername:"第608章 天命之孙！（求订阅）"
 }
 module.exports=config
