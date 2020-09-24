@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:572875251,
-  chaptername:" 第622章 意外收获（求订阅）"
+  cid:572933923,
+  chaptername:" 第623章 今日无事！（求订阅）"
 }
 module.exports=config
