@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:573485438,
-  chaptername:"第627章 杀戮无边！（万更求订阅）"
+  cid:573845909,
+  chaptername:"第628章 合道陨落！（求订阅）"
 }
 module.exports=config
