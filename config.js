@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:574161095,
-  chaptername:"第632章 人、狗、树、书、球（求订阅）"
+  cid:574311714,
+  chaptername:"第633章 双山海（万更求订阅）"
 }
 module.exports=config
