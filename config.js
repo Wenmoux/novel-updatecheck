@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:576265818,
-  chaptername:"第642章 往事（万更求月票）"
+  cid:576307521,
+  chaptername:"感谢，送实体签名书，冲五星，求保底，必看单章"
 }
 module.exports=config
