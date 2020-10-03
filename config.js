@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:576983775,
-  chaptername:" 第643章 食铁之变（求订阅）"
+  cid:577004857,
+  chaptername:"第644章 霸道无双（求月票）"
 }
 module.exports=config
