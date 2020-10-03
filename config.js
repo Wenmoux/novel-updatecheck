@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:577004857,
-  chaptername:"第644章 霸道无双（求月票）"
+  cid:577029483,
+  chaptername:"第645章 生死两界我为尊（万更求月票）"
 }
 module.exports=config
