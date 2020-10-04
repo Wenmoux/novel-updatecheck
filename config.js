@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:577029483,
-  chaptername:"第645章 生死两界我为尊（万更求月票）"
+  cid:577042145,
+  chaptername:"嘎嘎嘎，感谢亿盟大佬壶中日月"
 }
 module.exports=config
