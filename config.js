@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:577126163,
-  chaptername:"第648章 再入星宇府邸（万更求订阅）"
+  cid:577175838,
+  chaptername:"第649章 算计终成空，大战东天王（求订阅）"
 }
 module.exports=config
