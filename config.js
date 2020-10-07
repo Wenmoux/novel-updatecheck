@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:577314347,
-  chaptername:"第654章 开门取宝（万更求订阅）"
+  cid:577360929,
+  chaptername:" 第655章 周天合一窍！（求订阅）"
 }
 module.exports=config
