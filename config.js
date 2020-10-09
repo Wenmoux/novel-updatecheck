@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:577496165,
-  chaptername:" 第660章 双双入合道（万更求订阅）"
+  cid:577533278,
+  chaptername:"带娃去检查"
 }
 module.exports=config
