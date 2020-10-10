@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:577673552,
-  chaptername:"第664章 阴险苏宇！（万更求订阅）"
+  cid:577883126,
+  chaptername:"第665章 降临五行界（求订阅）"
 }
 module.exports=config
