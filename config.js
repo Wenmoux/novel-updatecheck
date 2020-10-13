@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:579531240,
-  chaptername:"第672章 鸿蒙龟（求订阅）"
+  cid:579701095,
+  chaptername:"第673章 收服南王太简单（求订阅）"
 }
 module.exports=config
