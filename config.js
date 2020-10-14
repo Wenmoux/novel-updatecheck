@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:580298471,
-  chaptername:"第676章 打的就是不听话的（求订阅）"
+  cid:580404435,
+  chaptername:" 第677章 鏖战（万更求订阅）"
 }
 module.exports=config
