@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:581255601,
-  chaptername:"第689章 天命之子出现（求订阅）"
+  cid:581296923,
+  chaptername:"第690章 平定凤界（万更求订阅）"
 }
 module.exports=config
