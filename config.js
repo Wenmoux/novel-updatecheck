@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:581587370,
-  chaptername:"第694章 四道齐现（求订阅）"
+  cid:581616852,
+  chaptername:"第695章 开惊世之道！（求订阅）"
 }
 module.exports=config
