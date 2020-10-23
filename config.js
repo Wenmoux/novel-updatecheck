@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:581968954,
-  chaptername:"第699章 入上界（万更求订阅）"
+  cid:582123777,
+  chaptername:"第700章 定军侯（求订阅）"
 }
 module.exports=config
