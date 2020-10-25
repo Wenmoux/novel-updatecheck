@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:583630086,
-  chaptername:"第705章 重操旧业（万更求订阅）"
+  cid:584314940,
+  chaptername:"第706章 混沌之力（求订阅）"
 }
 module.exports=config
