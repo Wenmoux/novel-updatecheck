@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:585105220,
-  chaptername:"第710章 连锁反应（就两更了，休息一下）"
+  cid:586051245,
+  chaptername:" 第711章 上界食铁族（求订阅）"
 }
 module.exports=config
