@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:595016939,
-  chaptername:"10月结束，感谢诸位！"
+  cid:595552026,
+  chaptername:"第726章 圣族（求保底月票）"
 }
 module.exports=config
