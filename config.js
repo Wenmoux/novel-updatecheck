@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:599884137,
-  chaptername:"第735章 空间古兽（求订阅）"
+  cid:599946807,
+  chaptername:"第736章 万事俱备（求订阅）"
 }
 module.exports=config
