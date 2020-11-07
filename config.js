@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:602196944,
-  chaptername:"第741章 施恩图报（求订阅）"
+  cid:602260263,
+  chaptername:"第742章 人族完了（求订阅）"
 }
 module.exports=config
