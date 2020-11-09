@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:602481126,
-  chaptername:"简单说下更新问题"
+  cid:602479674,
+  chaptername:"第744章 合作达成（周末就一更了）"
 }
 module.exports=config
