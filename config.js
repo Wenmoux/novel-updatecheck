@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:603326212,
-  chaptername:" 第747章 传火一脉的刚猛！（万更求订阅）"
+  cid:603410030,
+  chaptername:"第748章 陨落如雨（求订阅）"
 }
 module.exports=config
