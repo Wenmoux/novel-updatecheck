@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:604542504,
-  chaptername:" 第752章 再相聚（求订阅）"
+  cid:604668910,
+  chaptername:"第753章 心态崩了（万更求订阅）"
 }
 module.exports=config
