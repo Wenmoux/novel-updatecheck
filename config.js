@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:605410057,
-  chaptername:"第755章 上界乱起（求订阅）"
+  cid:605485326,
+  chaptername:"晚上不更了"
 }
 module.exports=config
