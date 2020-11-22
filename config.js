@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:611834485,
-  chaptername:"第775章 三月和巨斧（万更求订阅）"
+  cid:611969069,
+  chaptername:"第776章 真可怜（求订阅）"
 }
 module.exports=config
