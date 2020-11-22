@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:612026034,
-  chaptername:"第777章 复生开始，死灵意志（求订阅）"
+  cid:612062062,
+  chaptername:" 第778章 异变频出（万更求订阅）"
 }
 module.exports=config
