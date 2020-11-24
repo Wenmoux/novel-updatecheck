@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:612679063,
-  chaptername:"第782章 全员复苏（求订阅）"
+  cid:613332468,
+  chaptername:"第783章 战力巅峰（求订阅）"
 }
 module.exports=config
