@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:613831880,
-  chaptername:" 第785章 抓监天，生道晋级求订阅）"
+  cid:614083048,
+  chaptername:" 第786章 兄妹终相见（求订阅）"
 }
 module.exports=config
