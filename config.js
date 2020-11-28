@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:614936206,
-  chaptername:"第793章 大戏开幕了！（万更求订阅）"
+  cid:615124268,
+  chaptername:"第794章 出征（求订阅）"
 }
 module.exports=config
