@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:616028350,
-  chaptername:"第797章 天尊陨落（求订阅）"
+  cid:616100657,
+  chaptername:"第798章 乱战乱杀（求订阅）"
 }
 module.exports=config
