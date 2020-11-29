@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:616100657,
-  chaptername:"第798章 乱战乱杀（求订阅）"
+  cid:616172313,
+  chaptername:"第799章 狱青破门（万更求订阅）"
 }
 module.exports=config
