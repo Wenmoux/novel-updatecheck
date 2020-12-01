@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:616866020,
-  chaptername:"第802章 再见武皇（求保底月票）"
+  cid:616912420,
+  chaptername:"第803章 解封上下界（求订阅）"
 }
 module.exports=config
