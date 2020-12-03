@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:617356483,
-  chaptername:"第808章 黑心苏宇（求订阅）"
+  cid:617447445,
+  chaptername:"第809章 出征！（求订阅）"
 }
 module.exports=config
