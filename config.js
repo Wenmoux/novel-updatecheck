@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:617774620,
-  chaptername:"意外，抱歉"
+  cid:617923464,
+  chaptername:"第813章 杀人诛心！（求订阅）"
 }
 module.exports=config
