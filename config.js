@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:621350485,
-  chaptername:"第826章 不甘寂寞的一群人（求订阅）"
+  cid:621440625,
+  chaptername:"第827章 惊不惊喜（万更求订阅）"
 }
 module.exports=config
