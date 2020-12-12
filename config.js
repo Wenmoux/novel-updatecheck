@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:621996633,
-  chaptername:"第831章 6岁的记忆（求订阅）"
+  cid:622134690,
+  chaptername:"第832章 过去身（求订阅）"
 }
 module.exports=config
