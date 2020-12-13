@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:622233543,
-  chaptername:"第833章 纷纷突破（万更求订阅）"
+  cid:622299641,
+  chaptername:"第834章 兵强马壮，出发！（求订阅）"
 }
 module.exports=config
