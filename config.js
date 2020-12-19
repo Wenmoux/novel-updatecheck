@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:623347512,
-  chaptername:"请假"
+  cid:623450979,
+  chaptername:"第850章 默契（求订阅）"
 }
 module.exports=config
