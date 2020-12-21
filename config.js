@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:623890558,
-  chaptername:"第856章 苏宇当家（求订阅）"
+  cid:624078025,
+  chaptername:"6点更新"
 }
 module.exports=config
