@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:624368246,
-  chaptername:"第862章 三门（就一更了，理理下个剧情思路）"
+  cid:625295844,
+  chaptername:"第863章 可怕！（求订阅）"
 }
 module.exports=config
