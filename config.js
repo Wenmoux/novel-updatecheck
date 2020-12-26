@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:625877259,
-  chaptername:"第870章 天门乱起（求订阅）"
+  cid:625907229,
+  chaptername:"第871章 老本行继续（万更求订阅）"
 }
 module.exports=config
