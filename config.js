@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:625849839,
-  chaptername:"第869章 六方山，大统领（求订阅）"
+  cid:625877259,
+  chaptername:"第870章 天门乱起（求订阅）"
 }
 module.exports=config
