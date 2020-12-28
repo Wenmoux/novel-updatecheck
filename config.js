@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:626115541,
-  chaptername:"第876章 群雄聚六方（求订阅）"
+  cid:626159679,
+  chaptername:"第877章 镇压四方（万更求订阅）"
 }
 module.exports=config
