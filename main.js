@@ -39,7 +39,7 @@ module.exports=config`, {
             }
         );
 
-            fs.writeFile("./chapter.md",`[${t}](http:${u})\n`, {flag: "a", },
+            fs.writeFile("./chapter.md",`[${a.attr("title")}](http:${u})\n`, {flag: "a", },
  
                 (err) => {
  
