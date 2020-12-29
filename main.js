@@ -38,6 +38,26 @@ module.exports=config`, {
                 }
             }
         );
+
+            fs.writeFile("./chapter.md",`[${t}](http:${u})\n`, {flag: "a", },
+ 
+                (err) => {
+ 
+                    if (err) {
+ 
+                        throw err;
+ 
+                    } else {
+ 
+                        console.log("success");
+ 
+                    }
+ 
+                }
+ 
+            )
+
+
     }
 }
 
