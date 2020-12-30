@@ -5,3 +5,5 @@
 
 [第882章 了不得的秘密（求订阅）](http://vipreader.qidian.com/chapter/1018027842/626486580)
 
+[第883章 行动（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/626580118)
+
