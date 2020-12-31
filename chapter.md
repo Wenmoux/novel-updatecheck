@@ -13,3 +13,5 @@
 
 [ 第887章 文王，武王，苏宇，死灵之主（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/626928005)
 
+[2020结束！2021快乐！](http://vipreader.qidian.com/chapter/1018027842/626935583)
+
