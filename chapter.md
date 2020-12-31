@@ -9,3 +9,5 @@
 
 [第884章 门的来历（求订阅）](http://vipreader.qidian.com/chapter/1018027842/626787128)
 
+[第885章 死灵地狱（求订阅）](http://vipreader.qidian.com/chapter/1018027842/626849295)
+

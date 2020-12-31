@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:626787128,
-  chaptername:"第884章 门的来历（求订阅）"
+  cid:626849295,
+  chaptername:"第885章 死灵地狱（求订阅）"
 }
 module.exports=config
