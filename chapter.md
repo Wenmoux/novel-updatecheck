@@ -18,3 +18,5 @@
 
 [第888章 论道（求保底月票）](http://vipreader.qidian.com/chapter/1018027842/627010269)
 
+[ 第889章 密谋大事（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/627075578)
+
