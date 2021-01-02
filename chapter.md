@@ -20,3 +20,5 @@
 
 [ 第889章 密谋大事（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/627075578)
 
+[第890章 八卦党的胜利（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627131038)
+
