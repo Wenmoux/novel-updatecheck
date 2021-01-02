@@ -22,3 +22,5 @@
 
 [第890章 八卦党的胜利（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627131038)
 
+[第891章 落魂谷（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627155822)
+
