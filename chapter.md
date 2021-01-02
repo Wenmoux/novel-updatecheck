@@ -24,3 +24,5 @@
 
 [第891章 落魂谷（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627155822)
 
+[第892章 袭杀（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/627186146)
+
