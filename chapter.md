@@ -28,3 +28,5 @@
 
 [第893章 魂域崩（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627242088)
 
+[第894章 你是信仰！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627266968)
+
