@@ -26,3 +26,5 @@
 
 [第892章 袭杀（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/627186146)
 
+[第893章 魂域崩（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627242088)
+
