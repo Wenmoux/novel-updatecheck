@@ -30,3 +30,5 @@
 
 [第894章 你是信仰！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627266968)
 
+[第895章 我的孙，复苏吧！（万更求月票）](http://vipreader.qidian.com/chapter/1018027842/627295666)
+
