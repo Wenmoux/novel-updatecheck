@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:627404739,
-  chaptername:"第897章 万劫山（求订阅）"
+  cid:627468830,
+  chaptername:"第898章 岁月催人老（万更求月票）"
 }
 module.exports=config

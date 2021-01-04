@@ -36,3 +36,5 @@
 
 [第897章 万劫山（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627404739)
 
+[第898章 岁月催人老（万更求月票）](http://vipreader.qidian.com/chapter/1018027842/627468830)
+
