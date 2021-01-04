@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:627295666,
-  chaptername:"第895章 我的孙，复苏吧！（万更求月票）"
+  cid:627362053,
+  chaptername:"第896章 狂妄无边（求订阅）"
 }
 module.exports=config

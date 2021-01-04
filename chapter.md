@@ -32,3 +32,5 @@
 
 [第895章 我的孙，复苏吧！（万更求月票）](http://vipreader.qidian.com/chapter/1018027842/627295666)
 
+[第896章 狂妄无边（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627362053)
+
