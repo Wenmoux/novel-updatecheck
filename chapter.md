@@ -42,3 +42,5 @@
 
 [第900章 到哪都嚣张（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627591498)
 
+[第901章 初见时光师（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/627672563)
+
