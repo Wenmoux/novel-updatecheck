@@ -38,3 +38,5 @@
 
 [第898章 岁月催人老（万更求月票）](http://vipreader.qidian.com/chapter/1018027842/627468830)
 
+[第899章 混入（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627545786)
+
