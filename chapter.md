@@ -40,3 +40,5 @@
 
 [第899章 混入（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627545786)
 
+[第900章 到哪都嚣张（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627591498)
+
