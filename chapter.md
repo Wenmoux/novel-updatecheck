@@ -48,3 +48,5 @@
 
 [第903章 不是善茬（求订阅）](http://vipreader.qidian.com/chapter/1018027842/628264699)
 
+[第904章 战斗打响（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/628439704)
+
