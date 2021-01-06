@@ -44,3 +44,5 @@
 
 [第901章 初见时光师（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/627672563)
 
+[第902章 手段（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627746189)
+
