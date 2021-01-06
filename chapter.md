@@ -46,3 +46,5 @@
 
 [第902章 手段（求订阅）](http://vipreader.qidian.com/chapter/1018027842/627746189)
 
+[第903章 不是善茬（求订阅）](http://vipreader.qidian.com/chapter/1018027842/628264699)
+
