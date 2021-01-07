@@ -50,3 +50,5 @@
 
 [第904章 战斗打响（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/628439704)
 
+[第905章 三重天（求订阅）](http://vipreader.qidian.com/chapter/1018027842/628704489)
+
