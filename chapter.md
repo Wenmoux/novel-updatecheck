@@ -52,3 +52,5 @@
 
 [第905章 三重天（求订阅）](http://vipreader.qidian.com/chapter/1018027842/628704489)
 
+[ 第906章 有所为有所不为（求订阅）](http://vipreader.qidian.com/chapter/1018027842/628782492)
+
