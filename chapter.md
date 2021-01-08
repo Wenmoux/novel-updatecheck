@@ -58,3 +58,5 @@
 
 [上午不更新，下午补](http://vipreader.qidian.com/chapter/1018027842/628894434)
 
+[第908章 时光师大胜（求订阅）](http://vipreader.qidian.com/chapter/1018027842/628944664)
+
