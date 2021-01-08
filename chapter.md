@@ -56,3 +56,5 @@
 
 [ 第907章 都不闲着（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/628845890)
 
+[上午不更新，下午补](http://vipreader.qidian.com/chapter/1018027842/628894434)
+
