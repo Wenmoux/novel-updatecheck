@@ -64,3 +64,5 @@
 
 [第910章 领袖们的默契（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/629051139)
 
+[ 第911章 禁地之会（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629099295)
+
