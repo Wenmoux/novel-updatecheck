@@ -66,3 +66,5 @@
 
 [ 第911章 禁地之会（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629099295)
 
+[第912章 混乱的场面（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629121096)
+
