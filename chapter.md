@@ -70,3 +70,5 @@
 
 [ 第913章 分化（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/629149986)
 
+[第914章 还差一手（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629204752)
+
