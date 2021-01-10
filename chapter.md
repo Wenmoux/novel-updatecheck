@@ -72,3 +72,5 @@
 
 [第914章 还差一手（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629204752)
 
+[第915章 诸天最猛（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629228097)
+
