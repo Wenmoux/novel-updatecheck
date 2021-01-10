@@ -74,3 +74,5 @@
 
 [第915章 诸天最猛（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629228097)
 
+[ 第916章 疯狂之战（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/629257967)
+
