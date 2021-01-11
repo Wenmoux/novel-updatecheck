@@ -80,3 +80,5 @@
 
 [第918章 消化收获（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629345440)
 
+[第919章 人门（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/629416013)
+
