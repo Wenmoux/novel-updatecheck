@@ -76,3 +76,5 @@
 
 [ 第916章 疯狂之战（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/629257967)
 
+[第917章 回归万界（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629318420)
+
