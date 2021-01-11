@@ -78,3 +78,5 @@
 
 [第917章 回归万界（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629318420)
 
+[第918章 消化收获（求订阅）](http://vipreader.qidian.com/chapter/1018027842/629345440)
+
