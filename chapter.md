@@ -82,3 +82,5 @@
 
 [第919章 人门（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/629416013)
 
+[休息一天](http://vipreader.qidian.com/chapter/1018027842/629521578)
+
