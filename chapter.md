@@ -90,3 +90,5 @@
 
 [第935章 不听我的都是坏人（求订阅）](http://vipreader.qidian.com/chapter/1018027842/630843242)
 
+[第936章 屠夫苏宇（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/630884058)
+
