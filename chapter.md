@@ -88,3 +88,5 @@
 
 [第934章 惊天之变！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/630792486)
 
+[第935章 不听我的都是坏人（求订阅）](http://vipreader.qidian.com/chapter/1018027842/630843242)
+
