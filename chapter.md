@@ -92,3 +92,5 @@
 
 [第936章 屠夫苏宇（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/630884058)
 
+[第937章 我就是赢家（求订阅）](http://vipreader.qidian.com/chapter/1018027842/630952731)
+
