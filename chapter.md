@@ -96,3 +96,5 @@
 
 [第938章 分赃结束（求订阅）](http://vipreader.qidian.com/chapter/1018027842/631001190)
 
+[ 第939章 三族之秘（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/631118218)
+
