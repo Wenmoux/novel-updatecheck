@@ -100,3 +100,5 @@
 
 [请假一天](http://vipreader.qidian.com/chapter/1018027842/631167301)
 
+[ 第940章 办法比困难多（求订阅）](http://vipreader.qidian.com/chapter/1018027842/631315887)
+
