@@ -102,3 +102,5 @@
 
 [ 第940章 办法比困难多（求订阅）](http://vipreader.qidian.com/chapter/1018027842/631315887)
 
+[第941章 送上门来（求订阅）](http://vipreader.qidian.com/chapter/1018027842/631451917)
+
