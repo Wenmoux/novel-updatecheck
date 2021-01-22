@@ -110,3 +110,5 @@
 
 [ 第944章 万族之战落幕（求订阅）](http://vipreader.qidian.com/chapter/1018027842/631682729)
 
+[第945章 人皇印内（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/631759058)
+
