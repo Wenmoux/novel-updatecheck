@@ -106,3 +106,5 @@
 
 [ 第942章 成全你！（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/631559273)
 
+[第943章 天古陨！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/631648697)
+
