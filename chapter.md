@@ -114,3 +114,5 @@
 
 [第946章 新宇之皇（求订阅）](http://vipreader.qidian.com/chapter/1018027842/631968121)
 
+[第947章 走一遭未来（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632006622)
+
