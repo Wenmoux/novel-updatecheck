@@ -116,3 +116,5 @@
 
 [第947章 走一遭未来（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632006622)
 
+[第948章 兜兜转转还是你（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632039660)
+
