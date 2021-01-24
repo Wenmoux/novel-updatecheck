@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:632096726,
-  chaptername:"第949章 准备就绪（求订阅）"
+  cid:632127089,
+  chaptername:"第950章 抉择（周日就两更了）"
 }
 module.exports=config

@@ -120,3 +120,5 @@
 
 [第949章 准备就绪（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632096726)
 
+[第950章 抉择（周日就两更了）](http://vipreader.qidian.com/chapter/1018027842/632127089)
+
