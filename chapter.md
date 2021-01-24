@@ -118,3 +118,5 @@
 
 [第948章 兜兜转转还是你（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632039660)
 
+[第949章 准备就绪（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632096726)
+
