@@ -124,3 +124,5 @@
 
 [第951章 斩人祖！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632227155)
 
+[第952章 诛心之战！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632273874)
+
