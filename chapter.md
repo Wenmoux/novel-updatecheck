@@ -126,3 +126,5 @@
 
 [第952章 诛心之战！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632273874)
 
+[第953章 魔高一丈（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632323204)
+
