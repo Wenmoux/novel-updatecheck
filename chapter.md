@@ -122,3 +122,5 @@
 
 [第950章 抉择（周日就两更了）](http://vipreader.qidian.com/chapter/1018027842/632127089)
 
+[第951章 斩人祖！（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632227155)
+
