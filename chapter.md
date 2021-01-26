@@ -132,3 +132,5 @@
 
 [第955章 天地合一（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632453826)
 
+[第956章 打不过就加入（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632485223)
+
