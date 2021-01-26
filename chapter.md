@@ -130,3 +130,5 @@
 
 [第954章 三门降临（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632389387)
 
+[第955章 天地合一（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632453826)
+

@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:632389387,
-  chaptername:"第954章 三门降临（求订阅）"
+  cid:632453826,
+  chaptername:"第955章 天地合一（求订阅）"
 }
 module.exports=config
