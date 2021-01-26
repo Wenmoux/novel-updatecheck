@@ -128,3 +128,5 @@
 
 [第953章 魔高一丈（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632323204)
 
+[第954章 三门降临（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632389387)
+

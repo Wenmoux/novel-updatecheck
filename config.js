@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:632323204,
-  chaptername:"第953章 魔高一丈（万更求订阅）"
+  cid:632389387,
+  chaptername:"第954章 三门降临（求订阅）"
 }
 module.exports=config
