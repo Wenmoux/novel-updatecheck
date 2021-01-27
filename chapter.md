@@ -138,3 +138,5 @@
 
 [第957章 越痛苦越真实（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632618045)
 
+[第958章 人门苏宇（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632660617)
+

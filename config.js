@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:632618045,
-  chaptername:"第957章 越痛苦越真实（求订阅）"
+  cid:632660617,
+  chaptername:"第958章 人门苏宇（求订阅）"
 }
 module.exports=config
