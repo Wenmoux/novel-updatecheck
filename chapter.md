@@ -134,3 +134,5 @@
 
 [第956章 打不过就加入（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632485223)
 
+[整夜失眠，早上应该起不来了](http://vipreader.qidian.com/chapter/1018027842/632525240)
+
