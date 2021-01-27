@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:632525240,
-  chaptername:"整夜失眠，早上应该起不来了"
+  cid:632618045,
+  chaptername:"第957章 越痛苦越真实（求订阅）"
 }
 module.exports=config
