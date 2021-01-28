@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:632660617,
-  chaptername:"第958章 人门苏宇（求订阅）"
+  cid:632725051,
+  chaptername:"第959章 人皇才是主角（求订阅）"
 }
 module.exports=config

@@ -140,3 +140,5 @@
 
 [第958章 人门苏宇（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632660617)
 
+[第959章 人皇才是主角（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632725051)
+
