@@ -144,3 +144,5 @@
 
 [第960章 浴火重生（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632777883)
 
+[第961章 千变万化（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632853566)
+
