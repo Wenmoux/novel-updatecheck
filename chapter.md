@@ -146,3 +146,5 @@
 
 [第961章 千变万化（万更求订阅）](http://vipreader.qidian.com/chapter/1018027842/632853566)
 
+[第962章 主、仆、囚徒、恶客（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632956634)
+
