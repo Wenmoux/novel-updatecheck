@@ -148,3 +148,5 @@
 
 [第962章 主、仆、囚徒、恶客（求订阅）](http://vipreader.qidian.com/chapter/1018027842/632956634)
 
+[第963章 一个不能少（就两更了）](http://vipreader.qidian.com/chapter/1018027842/633024729)
+
