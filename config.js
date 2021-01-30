@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:633194695,
-  chaptername:"第964章 再无苍穹剑（求订阅）"
+  cid:633222241,
+  chaptername:"第965章 仰望星空（依旧两更，求安慰）"
 }
 module.exports=config

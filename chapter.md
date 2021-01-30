@@ -152,3 +152,5 @@
 
 [第964章 再无苍穹剑（求订阅）](http://vipreader.qidian.com/chapter/1018027842/633194695)
 
+[第965章 仰望星空（依旧两更，求安慰）](http://vipreader.qidian.com/chapter/1018027842/633222241)
+
