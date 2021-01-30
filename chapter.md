@@ -150,3 +150,5 @@
 
 [第963章 一个不能少（就两更了）](http://vipreader.qidian.com/chapter/1018027842/633024729)
 
+[第964章 再无苍穹剑（求订阅）](http://vipreader.qidian.com/chapter/1018027842/633194695)
+

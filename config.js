@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:633024729,
-  chaptername:"第963章 一个不能少（就两更了）"
+  cid:633194695,
+  chaptername:"第964章 再无苍穹剑（求订阅）"
 }
 module.exports=config
