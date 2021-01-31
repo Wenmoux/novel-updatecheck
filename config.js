@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:633317741,
-  chaptername:"第966章 君问归期未有期（大结局）"
+  cid:633321681,
+  chaptername:"完本感言"
 }
 module.exports=config
