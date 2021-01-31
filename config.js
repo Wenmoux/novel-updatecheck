@@ -1,6 +1,6 @@
 config={
   id:1018027842,
-  cid:633222241,
-  chaptername:"第965章 仰望星空（依旧两更，求安慰）"
+  cid:633317741,
+  chaptername:"第966章 君问归期未有期（大结局）"
 }
 module.exports=config
