@@ -158,3 +158,5 @@
 
 [完本感言](http://vipreader.qidian.com/chapter/1018027842/633321681)
 
+[很快点完本](http://vipreader.qidian.com/chapter/1018027842/633931859)
+
